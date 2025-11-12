@@ -12,6 +12,7 @@ Implémenter un sous-ensemble du processeur ARM incluant :
 - Compteur ordinal (PC)
 - Mémoire d’instructions (IMEM)
 - Registres de flags
+- decalage (shifter)
 
 ## Structure du dépôt
 - `src/` : fichiers VHDL

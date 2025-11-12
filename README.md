@@ -5,7 +5,7 @@
 ## 1. Overview
 This repository contains the design and simulation of a simplified ARM datapath implemented in VHDL with Xilinx Vivado.  
 The project was developed as part of the Computer Architecture mini-project at UQTR (Fall 2025).
->>>>>>> fa6184c (Final adjustments to README)
+
 
 ## 2. Objectives
 The goal of this project is to build a simple ARM datapath that includes:

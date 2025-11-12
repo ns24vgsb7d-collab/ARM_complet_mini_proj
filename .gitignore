@@ -1,0 +1,26 @@
+# Fichiers temporaires et de projet Vivado / Vitis / HLS
+*.jou
+*.log
+*.str
+*.xml
+*.xpr
+*.xsa
+*.bit
+*.bin
+*.ltx
+*.wcfg
+*.html
+*.zip
+*.exe
+*.csv
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.vivado/
+*.vitis/
+*.sdk/
+build/
+tmp/
+__pycache__/

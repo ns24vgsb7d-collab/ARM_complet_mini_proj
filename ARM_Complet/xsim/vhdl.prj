@@ -1,0 +1,20 @@
+vhdl xil_defaultlib  \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/ALU_Flags.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/reg_file.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/Extend.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/data_memory.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/ARM.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/decodeur_p.vhd" \
+"../ARM_Complet.srcs/sources_1/new/alu_decodeur.vhd" \
+"../../../LAB3/decodeur/decodeur.srcs/sources_1/new/datapath_decodeur.vhd" \
+"../ARM_Complet.srcs/sources_1/new/ARM_PATHDECODEUR.vhd" \
+"../ARM_Complet.srcs/sources_1/new/PC_Register.vhd" \
+"../ARM_Complet.srcs/sources_1/new/Instruction_Memory.vhd" \
+"../ARM_Complet.srcs/sources_1/new/Instruction_Fetch.vhd" \
+"../ARM_Complet.srcs/sources_1/new/adder.vhd" \
+"../ARM_Complet.srcs/sources_1/new/Condition_Check.vhd" \
+"../ARM_Complet.srcs/sources_1/new/Flags_regs.vhd" \
+"../ARM_Complet.srcs/sources_1/new/ARM_TOP.vhd" \
+"../ARM_Complet.srcs/sim_1/new/ARM_TOP_TB.vhd" \
+
+nosort

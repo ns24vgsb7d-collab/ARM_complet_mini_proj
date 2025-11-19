@@ -1,3 +1,4 @@
+
 # Mini-projet Datapath ARM
 
 > 🇬🇧 [English version of the README](README.md)
@@ -16,7 +17,7 @@ L’objectif est d’implémenter un petit processeur ARM simplifié comprenant 
 - une mémoire d’instructions  
 - des registres de drapeaux (flags)
 - rigistre de decalage (shifter)
-Chaque module a été testé avec un testbench VHDL et validé à l’aide des simulations d’onde.
+- Chaque module a été testé avec un testbench VHDL et validé à l’aide des simulations d’onde.
 
 ## 3. Structure du dépôt
 - `src/` : fichiers VHDL  

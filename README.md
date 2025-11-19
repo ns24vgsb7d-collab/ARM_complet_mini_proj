@@ -17,7 +17,7 @@ The goal of this project is to build a simple ARM datapath that includes:
 - an instruction memory
 - flag registers
 - Shifter
-All components were tested with VHDL testbenches and validated through waveform simulation.
+- All components were tested with VHDL testbenches and validated through waveform simulation.
 
 ## 3. Repository Structure
 - `src/` : VHDL source files  
